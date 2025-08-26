@@ -1,2 +1,2 @@
 # Vat-Calculator-sales-tax
-VAT Calculator
+Global VAT Calculator
